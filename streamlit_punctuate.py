@@ -1,7 +1,6 @@
 import streamlit as st
 from sbert_punc_case_ru import SbertPuncCase
 import string
-#тест
 
 # Создаём объект - модель для преобразования текста
 model = SbertPuncCase()
